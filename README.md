@@ -1,6 +1,6 @@
 # Hi, I'm Vlad Chelcea
 
-Welcome to my GitHub portfolio. I’m a master’s student in Systems, Control & Robotics at KTH (Sweden), with a BSc in Electrical Engineering. My work blends electrical engineering and a variety of different types of systems.
+Welcome to my GitHub portfolio. I'm a master's student in Systems, Control & Robotics at KTH (Sweden), with a BSc in Electrical Engineering. My work blends electrical engineering and a variety of different types of systems.
 
 - MSc in Systems, Control & Robotics @ KTH
 - Interests: AI, NLP, Deep Learning, Control Systems
@@ -21,11 +21,11 @@ Welcome to my GitHub portfolio. I’m a master’s student in Systems, Control &
 | [Genre Classifier](link) | Audio signal preprocessing + DL model on MFCCs |
 | [Multi-Label Loss Study](link) | Experiments with symmetric cross-entropy loss |
 | [Reinforcement Snake](link) | Snake agent trained with CNN + Q-learning |
-| [Estimation Filters](link) | Kalman filters for position tracking (control systems) |
+| [Estimation Filters](link) | Kalman filters for position tracking using NNs |
 
 ## About Me
-- Based in Sweden 🇸🇪
+- Based in Sweden
 - Interested in AI for language, robotics, and systems
 - Actively exploring NLP methods in data-scarce domains
 - Part time climbing coach and writer
-- Always open to collaboration — feel free to connect on [LinkedIn](https://www.linkedin.com/in/vlad-chelcea)
+- Always open to collaboration - feel free to connect on [LinkedIn](https://www.linkedin.com/in/vlad-chelcea)
